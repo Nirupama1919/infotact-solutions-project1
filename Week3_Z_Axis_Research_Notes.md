@@ -1,4 +1,4 @@
-# Week 3 – Z-Axis Logic Notes
+# Week 3 – Z-Axis Logic
 
 ## Objective
 To understand how virtual UI panels are positioned at different distances from the user in a spatial environment.
