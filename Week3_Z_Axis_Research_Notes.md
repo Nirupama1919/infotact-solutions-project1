@@ -17,5 +17,8 @@ The foreground contains active controls, the middle layer contains main content,
 ## 4. User Comfort
 UI panels should be placed at comfortable viewing positions. Users should not need to move their head or hands excessively.
 
+## 5. Additional Spatial UI Design Observations
+The OmniSpace interface should maintain clear spacing between interactive panels. Important controls should remain easy to view and reach. UI elements should adjust their size according to viewing distance to improve readability and user comfort. Depth positioning should help users understand the importance and location of each interface element.
+
 ## Conclusion
 This research helped me understand distance-based UI positioning, scaling, depth layering, readability and user comfort in spatial interfaces.
