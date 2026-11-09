@@ -20,6 +20,13 @@ Gaze Hover – Look at an item to highlight it.
 Pinch – Select the highlighted item.
 Pinch-and-Drag – Move a floating interface panel.
 
+## Current Progress
+Main background panel created.
+Three coloured spatial UI panels created.
+Panel positions and dimensions adjusted.
+OmniSpace title added.
+Gesture controls section is being developed.
+
 ## Design Approach
 The interface uses different colours to distinguish the three spatial zones. Panel positions and sizes are arranged to make the interface easier to understand.
 
